@@ -11,12 +11,14 @@
     "outRoot": "",
     "defaultStrategy": "packageRoot",
     "strategy": {},
+    "togetherRoot": "components",
     "forceLatest": true,
     "exclude": [],
     "unknownMainFullCopy": false,
     "overridesArrays": {},
     "overridesObjects": {},
     "mainOverrides": {},
-    "pathMod": null
+    "pathMod": null,
+    "strategyRegexs": []
   }
 }
