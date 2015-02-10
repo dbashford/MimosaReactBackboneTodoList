@@ -9,6 +9,6 @@ exports.config = {
     "minify-img",
     "live-reload",
     "bower",
-    "react@1.2.0"
+    "react"
   ]
 }
